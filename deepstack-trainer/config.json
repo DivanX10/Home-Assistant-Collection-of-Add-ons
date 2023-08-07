@@ -1,6 +1,6 @@
 {
-  "name": "DeepStack Client (DeepStack Trainer)",
-  "version": "2.2.0-1",
+  "name": "DeepStack Client (Trainer)",
+  "version": "2.2.0",
   "url": "https://github.com/DivanX10/Home-Assistant-Add-on-Deepstack",
   "slug": "deepstack-trainer",
   "description": "DeepStack Trainer is a Flask powerd, easy to use web app, hepls us to train and test Deepstack AI",
