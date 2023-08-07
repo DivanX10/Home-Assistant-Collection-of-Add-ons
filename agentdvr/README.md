@@ -10,9 +10,6 @@
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 
 
-<img src="https://github.com/DivanX10/home-assistant-collection-of-addons/blob/main/agentdvr/logo.png?raw=true" width=20%>
-
-
 * [About Agent DVR](https://www.ispyconnect.com/)
 * [Documentation AgentDVR](https://www.ispyconnect.com/userguide-agent-dvr.aspx)
 * [Images on docker hub](https://registry.hub.docker.com/r/doitandbedone/ispyagentdvr)
