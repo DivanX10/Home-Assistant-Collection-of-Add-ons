@@ -10,7 +10,7 @@
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 
 
-<img src="https://github.com/DivanX10/home-assistant-collection-of-addons/blob/main/logo.jpg" width=40%>
+<img src="https://github.com/DivanX10/home-assistant-collection-of-addons/blob/main/logo1.jpg" width=30%>
 
 
 
