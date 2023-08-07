@@ -10,14 +10,17 @@
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 
 
-<img src="https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/bb259858-aa2e-4b79-a819-c50f830c1eea" width=10%>
+<img src="111" width=10%>
+
+
+
 
 ## Установка
 
 Перейдите во внешний интерфейс своего домашнего помощника в Настройки -> Дополнения -> Магазин -> нажимаем на 3 точки (справа наверху) и добавьте этот URL-адрес в репозиторий:
 
 ```
-https://github.com/DivanX10/Home-Assistant-Add-on-Homed
+https://github.com/DivanX10/home-assistant-collection-of-addons
 ```
 
 ![image](https://github.com/DivanX10/Home-Assistant-Add-on-Homed/assets/64090632/661d80c5-194d-4e28-a2a0-32e4384eb0b4)
