@@ -10,7 +10,7 @@
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 
 
-<img src="https://github.com/DivanX10/Home-Assistant-Add-on-DeepStack-Edge/blob/main/agentdvr/icon.png" width=10%>
+<img src="https://github.com/DivanX10/home-assistant-collection-of-addons/blob/main/agentdvr/logo.png" width=20%>
 
 
 
