@@ -1,3 +1,3 @@
-# Home Assistant collection of Add-ons
+# Home Assistant Collection of Add-ons
 
 
