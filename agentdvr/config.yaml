@@ -1,0 +1,48 @@
+name: "iSpy Agent DVR Test"
+version: 4.9.3.0.1
+slug: agentdvr
+description: "iSpy is the world’s most popular open source video surveillance application. It's compatible with the the vast majority of consumer webcams and IP cameras"
+url: "https://github.com/DivanX10/Home-Assistant-Add-on-DeepStack-Edge"
+webui: http://[HOST]:[PORT:8090]
+startup: application
+init: false
+arch:
+  - amd64
+  - aarch64
+  - armv7
+boot: auto
+map:
+  - config:rw
+  - share:rw
+ports:
+  8090/tcp: 8090
+  3478/udp: null
+  50000/udp: null
+  50001/udp: null
+  50002/udp: null
+  50003/udp: null
+  50004/udp: null
+  50005/udp: null
+  50006/udp: null
+  50007/udp: null
+  50008/udp: null
+  50009/udp: null
+  50010/udp: null
+ports_description:
+  8090/tcp: "Main UI port 8090. Default port"
+  3478/udp: "UDP port 3478. Default port, don't change"
+  50000/udp: "UDP port 50000. Default port, don't change"
+  50001/udp: "UDP port 50001. Default port, don't change"
+  50002/udp: "UDP port 50002. Default port, don't change"
+  50003/udp: "UDP port 50003. Default port, don't change"
+  50004/udp: "UDP port 50004. Default port, don't change"
+  50005/udp: "UDP port 50005. Default port, don't change"
+  50006/udp: "UDP port 50006. Default port, don't changee"
+  50007/udp: "UDP port 50007. Default port, don't change"
+  50008/udp: "UDP port 50008. Default port, don't change"
+  50009/udp: "UDP port 50009. Default port, don't change"
+  50010/udp: "UDP port 50010. Default port, don't change"
+options:
+  folder_path: /share/agentdvr
+schema:
+  folder_path: str
