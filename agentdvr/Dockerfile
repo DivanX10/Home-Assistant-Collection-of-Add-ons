@@ -1,4 +1,4 @@
-FROM doitandbedone/ispyagentdvr:4.9.3.0
+FROM doitandbedone/ispyagentdvr:5.2.3.0
 
 # Добавим метаданные к образу
 LABEL \
